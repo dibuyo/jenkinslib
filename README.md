@@ -4,7 +4,7 @@ This repository includes helper functions for making life easier with Jenkins an
 ## Usage
 Place this at the top of your Jenkinsfile:
 ```
-@Library('github.com/releaseworks/jenkinslib') _
+@Library('github.com/dibuyo/jenkinslib') _
 ```
 _(Note the trailing underscore!)_
 
